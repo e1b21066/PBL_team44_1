@@ -714,7 +714,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88e2bee252abf41829451dd430b50cba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  worldOrEventId: 96cdf3ac-038c-41c1-bdd5-6cd1b3471778
+  worldOrEventId: 8bc42368-dc61-43b3-bfb9-1c313a5df1af
   key: 
 --- !u!64 &1368613231
 MeshCollider:
